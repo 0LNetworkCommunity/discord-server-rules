@@ -5,8 +5,8 @@ The purpose of this discord server is to collaborate on the 0L blockchain projec
 ## Discussion guide 
 #### Be courteous and respectful. 
 The group is intended for 0L to build community and learn/collaborate on the project. Ensure all discussion is respectful toward the various members of our community. Remember that what you post may be seen by more people than in this group and is permanently connected with your profile. Think before you post! 
-#### Keep posts in channels to topics relevant to the programs and applicable to the entire group. 
-Refrain from discussing personal affairs in this group. Please use appropriate channels for communications on those topics. Please use direct messages to engage in personal discussions with one or more other group members. 
+#### Keep posts in channels to topics relevant to the programs and applicable to the entire group.
+Please refer to FAQ channel before posting questions. Refrain from discussing personal affairs in this group. Please use appropriate channels for communications on those topics. Please use direct messages to engage in personal discussions with one or more other group members. 
 #### Do not harass other members in the group or in personal communication. 
 No member is required to engage in personal discussions with any other member of this group. If you do send a direct message request, keep in mind that the person is not obligated to respond. If you send a message request and do not receive a response, do not harass the individual for an answer. Accept that they are within their right to refuse to engage in private discussion. Similarly, if you receive a direct message from someone you do not want to have contact with you are under no obligation to answer their message. 
 If you feel harassed, threatened or discriminated against by any member of this group contact the moderators of Discord immediately. 
